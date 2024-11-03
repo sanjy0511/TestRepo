@@ -1,0 +1,17 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.head1{
+    display: flex;
+   justify-content: space-evenly;
+   width: 50%;
+   align-items: center;
+   justify-items: center;
+   a{
+    text-decoration: none;
+    
+   }
+
+}
